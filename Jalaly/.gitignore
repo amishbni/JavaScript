@@ -1,2 +1,5 @@
 # node modules
 /node_modules
+
+# browserified js
+jalaly_bundle.js
